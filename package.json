@@ -1,0 +1,12 @@
+{
+  "name": "room-to-learn",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-hsingh23:hsingh23/roomtolearn.club.git"
+  },
+  "author": "Harsh Singh",
+  "license": "ISC"
+}
